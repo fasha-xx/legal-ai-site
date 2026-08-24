@@ -1,5 +1,110 @@
 [
   {
+    "id": "news_20260824_f4ebb9f9",
+    "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开...",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/506361.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-08-24",
+    "fetchedAt": "2026-08-24T00:42:25.775Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260824_13c17d0e",
+    "title": "第十二届金砖国家通信部长会议在印度浦那召开",
+    "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_865152e48c95442aa632a1e37ecdc7e8.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-24",
+    "fetchedAt": "2026-08-24T00:42:32.920Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20260824_ef9f84f5",
+    "title": "缺陷产品 召回查询",
+    "url": "http://qxzh.samr.gov.cn/qxzh/qxxxcx/web.jsp",
+    "source": "市场监管总局",
+    "sourceType": "html-list",
+    "category": "企业合规",
+    "date": "2026-08-24",
+    "fetchedAt": "2026-08-24T00:42:35.039Z",
+    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "市场监管总局"
+    ]
+  },
+  {
+    "id": "news_20260824_2c3826d7",
+    "title": "缺陷线索 报告",
+    "url": "http://qxzh.samr.gov.cn/qxzh/qxxxbg/web.jsp?sour=samr",
+    "source": "市场监管总局",
+    "sourceType": "html-list",
+    "category": "企业合规",
+    "date": "2026-08-24",
+    "fetchedAt": "2026-08-24T00:42:36.009Z",
+    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "市场监管总局"
+    ]
+  },
+  {
+    "id": "news_20260824_ca2c3b5e",
+    "title": "国产（进口）保健食品注册管理信息系统",
+    "url": "https://zwfw.samr.gov.cn/guideDetail?id=22d18e7b4dc749fa9d1a52d172c2b3f8",
+    "source": "市场监管总局",
+    "sourceType": "html-list",
+    "category": "企业合规",
+    "date": "2026-08-24",
+    "fetchedAt": "2026-08-24T00:42:36.317Z",
+    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "市场监管总局"
+    ]
+  },
+  {
+    "id": "news_20260824_cea4f50a",
+    "title": "特殊医学用途配方食品注册申请系统",
+    "url": "https://zwfw.samr.gov.cn/guideDetail?id=22d18e7b4dc749fa9d1a52d172c2b2f8",
+    "source": "市场监管总局",
+    "sourceType": "html-list",
+    "category": "企业合规",
+    "date": "2026-08-24",
+    "fetchedAt": "2026-08-24T00:42:36.614Z",
+    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "市场监管总局"
+    ]
+  },
+  {
+    "id": "news_20260824_a33a7030",
+    "title": "婴幼儿配方乳粉产品配方注册申请系统",
+    "url": "https://zwfw.samr.gov.cn/guideDetail?id=22d18e7b4dc749fa9d1a52d172c2b1f8",
+    "source": "市场监管总局",
+    "sourceType": "html-list",
+    "category": "企业合规",
+    "date": "2026-08-24",
+    "fetchedAt": "2026-08-24T00:42:36.906Z",
+    "summary": "市场监管总局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "市场监管总局"
+    ]
+  },
+  {
     "id": "news_20260823_a42781e7",
     "title": "国家知识产权局召开党组理论学习中心组专题学习会",
     "url": "https://www.cnipa.gov.cn/art/2026/6/2/art_51_206620.html",
@@ -747,96 +852,6 @@
     "legalPoint": "",
     "tags": [
       "工信部"
-    ]
-  },
-  {
-    "id": "news_20260816_7e567712",
-    "title": "习近平同斯洛伐克总统佩列格里尼会谈",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/507221.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-08-16",
-    "fetchedAt": "2026-08-16T00:43:18.477Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20260816_a1384012",
-    "title": "纪念江泽民同志诞辰100周年大会17日上午在京隆重举行 习近平将出席大会并发表重要讲话",
-    "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078133.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-08-16",
-    "fetchedAt": "2026-08-16T00:43:20.857Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260816_fa387627",
-    "title": "习近平：提高防灾减灾救灾能力",
-    "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078121.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-08-16",
-    "fetchedAt": "2026-08-16T00:43:22.163Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260816_ec72c7a4",
-    "title": "2026年前7个月我国生态环境质量持续向好",
-    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202608/content_7078059.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-08-16",
-    "fetchedAt": "2026-08-16T00:43:22.484Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260816_b6008493",
-    "title": "2026年前7个月邮政行业寄递业务量同比增长4.2%",
-    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202608/content_7078080.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-08-16",
-    "fetchedAt": "2026-08-16T00:43:22.798Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260816_7b3f204d",
-    "title": "《求是》杂志发表习近平总书记重要文章《提高防灾减灾救灾能力》",
-    "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078117.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-08-16",
-    "fetchedAt": "2026-08-16T00:43:23.111Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
     ]
   }
 ]
