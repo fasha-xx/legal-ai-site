@@ -1,5 +1,125 @@
 [
   {
+    "id": "news_20260825_dac68d85",
+    "title": "习近平同约旦国王阿卜杜拉二世会谈",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/509471.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-08-25",
+    "fetchedAt": "2026-08-25T00:42:15.682Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260825_7e567712",
+    "title": "习近平同斯洛伐克总统佩列格里尼会谈",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/507221.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-08-25",
+    "fetchedAt": "2026-08-25T00:42:16.490Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260825_f9bf331d",
+    "title": "习近平作出重要指示强调巩固拓展树立和践行正确政绩观学习教育成果 努力创造经得起实践人民历史检验的实绩",
+    "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078989.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-25",
+    "fetchedAt": "2026-08-25T00:42:18.459Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260825_8340a2fb",
+    "title": "习近平同约旦国王阿卜杜拉二世会谈",
+    "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078996.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-25",
+    "fetchedAt": "2026-08-25T00:42:18.726Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260825_f96165de",
+    "title": "习近平致电祝贺阿拉姆吉尔就任孟加拉国总统",
+    "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078999.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-25",
+    "fetchedAt": "2026-08-25T00:42:18.993Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260825_db04d795",
+    "title": "习近平作出重要指示强调巩固拓展树立和践行正确政绩观学习教育成果 努力创造经得起实践人民历史检验的实绩",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-08/24/c_1789319201086128.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-08-25",
+    "fetchedAt": "2026-08-25T00:42:21.007Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20260825_ca99ff43",
+    "title": "习近平同约旦国王阿卜杜拉二世会谈",
+    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-08/24/c_1789319204498801.htm",
+    "source": "网信中国",
+    "sourceType": "html-list",
+    "category": "AI 与数据合规",
+    "date": "2026-08-25",
+    "fetchedAt": "2026-08-25T00:42:21.273Z",
+    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "网信中国"
+    ]
+  },
+  {
+    "id": "news_20260825_d09a5066",
+    "title": "工业和信息化部举行“第32次亚太经合组织（APEC）中小企业部长会议新闻通气会”",
+    "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_0c0a3ae10f1b41d88813ab3ad5f6df54.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-25",
+    "fetchedAt": "2026-08-25T00:42:22.821Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
     "id": "news_20260824_f4ebb9f9",
     "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开...",
     "url": "https://www.court.gov.cn/zixun/xiangqing/506361.html",
@@ -773,81 +893,6 @@
     "category": "政策法规",
     "date": "2026-08-18",
     "fetchedAt": "2026-08-18T00:40:44.569Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260817_b3d768d0",
-    "title": "申长雨在京会见俄罗斯联邦知识产权局局长尤里·祖博夫一行",
-    "url": "https://www.cnipa.gov.cn/art/2026/5/27/art_51_206554.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-08-17",
-    "fetchedAt": "2026-08-17T00:41:21.909Z",
-    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "国家知识产权局"
-    ]
-  },
-  {
-    "id": "news_20260817_5a632672",
-    "title": "纪念江泽民同志诞辰100周年大会17日上午在京隆重举行 习近平将出席大会并发表重要讲话",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-08/15/c_1788570630715016.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-08-17",
-    "fetchedAt": "2026-08-17T00:41:24.750Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
-    ]
-  },
-  {
-    "id": "news_20260817_0c05c971",
-    "title": "习近平同斯洛伐克总统佩列格里尼会谈",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-07/28/c_1786984267575655.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-08-17",
-    "fetchedAt": "2026-08-17T00:41:25.559Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
-    ]
-  },
-  {
-    "id": "news_20260817_08c2df04",
-    "title": "纪念江泽民同志诞辰100周年大会17日上午在京隆重举行 习近平将出席大会并发表重要讲话",
-    "url": "http://www.miit.gov.cn/xwfb/szyw/art/2026/art_24a319b7275048b7926630411d6cd959.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-08-17",
-    "fetchedAt": "2026-08-17T00:41:27.517Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260817_0255e368",
-    "title": "2026中国产业转移发展对接活动（西藏）在拉萨举行",
-    "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_a5ed4e0d74c7407b8fda3b1de10faac4.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-08-17",
-    "fetchedAt": "2026-08-17T00:41:27.796Z",
     "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
     "legalPoint": "",
     "tags": [
