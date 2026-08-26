@@ -1,5 +1,125 @@
 [
   {
+    "id": "news_20260826_d0512837",
+    "title": "张军会见越南最高人民法院院长阮文广",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/509611.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-08-26",
+    "fetchedAt": "2026-08-26T00:43:17.012Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260826_b3d768d0",
+    "title": "申长雨在京会见俄罗斯联邦知识产权局局长尤里·祖博夫一行",
+    "url": "https://www.cnipa.gov.cn/art/2026/5/27/art_51_206554.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-08-26",
+    "fetchedAt": "2026-08-26T00:43:18.552Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20260826_bfa41774",
+    "title": "截至7月底我国电动汽车充电基础设施（枪）总数达2368.3万个",
+    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202608/content_7079064.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-26",
+    "fetchedAt": "2026-08-26T00:43:19.707Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260826_2319b023",
+    "title": "中约联合声明",
+    "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7079029.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-26",
+    "fetchedAt": "2026-08-26T00:43:20.855Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260826_864bc5f3",
+    "title": "习近平作出重要指示强调 巩固拓展树立和践行正确政绩观学习教育成果 努力创造经得起实践人民历史检验的实绩",
+    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_382284e7e221439baa45d852c80d0ddb.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-26",
+    "fetchedAt": "2026-08-26T00:43:23.656Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20260826_927f3fcd",
+    "title": "习近平同约旦国王阿卜杜拉二世会谈",
+    "url": "http://www.miit.gov.cn/xwfb/szyw/art/2026/art_911d8c9b5d964797ace8e0d568fd412e.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-26",
+    "fetchedAt": "2026-08-26T00:43:23.925Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20260826_c3d671d2",
+    "title": "李乐成主持召开制造业企业座谈会 围绕产业人才队伍建设听取意见建议",
+    "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_f0e5f657ecc04c9fbf3c9edc5f131e63.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-26",
+    "fetchedAt": "2026-08-26T00:43:24.191Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
+    "id": "news_20260826_a026c4cd",
+    "title": "第五次中韩信息通信合作部长级战略对话在京举行",
+    "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_bfe279d774d24ee5a6bec07c1426e00f.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-26",
+    "fetchedAt": "2026-08-26T00:43:24.466Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
     "id": "news_20260825_dac68d85",
     "title": "习近平同约旦国王阿卜杜拉二世会谈",
     "url": "https://www.court.gov.cn/zixun/xiangqing/509471.html",
@@ -743,156 +863,6 @@
     "category": "政策法规",
     "date": "2026-08-19",
     "fetchedAt": "2026-08-19T00:41:22.629Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260818_f05d21c6",
-    "title": "纪念江泽民同志诞辰100周年大会隆重举行 习近平出席大会并发表重...",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/508971.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-08-18",
-    "fetchedAt": "2026-08-18T00:40:34.639Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20260818_9faad794",
-    "title": "知识产权强国建设纲要（2021－2035年）",
-    "url": "https://www.cnipa.gov.cn/col/col2741/index.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-08-18",
-    "fetchedAt": "2026-08-18T00:40:36.416Z",
-    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "国家知识产权局"
-    ]
-  },
-  {
-    "id": "news_20260818_ff02d6bf",
-    "title": "国家知识产权局党组理论学习中心组开展树立和践行正确政绩观专题学习研讨",
-    "url": "https://www.cnipa.gov.cn/art/2026/4/15/art_51_205790.html",
-    "source": "国家知识产权局",
-    "sourceType": "html-list",
-    "category": "知识产权",
-    "date": "2026-08-18",
-    "fetchedAt": "2026-08-18T00:40:37.313Z",
-    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "国家知识产权局"
-    ]
-  },
-  {
-    "id": "news_20260818_ea8fab34",
-    "title": "纪念江泽民同志诞辰100周年大会在京隆重举行 习近平发表重要讲话",
-    "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078248.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-08-18",
-    "fetchedAt": "2026-08-18T00:40:39.041Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260818_6fdba81c",
-    "title": "习近平就印度尼西亚发生强烈地震向印尼总统普拉博沃致慰问电",
-    "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078338.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-08-18",
-    "fetchedAt": "2026-08-18T00:40:39.321Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260818_b57e09d3",
-    "title": "阿塞拜疆语版节目《习近平的文化情缘》启播活动在巴库举行",
-    "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078318.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-08-18",
-    "fetchedAt": "2026-08-18T00:40:39.603Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260818_dfe1b657",
-    "title": "纪念江泽民同志诞辰100周年大会在京隆重举行 习近平发表重要讲话",
-    "url": "https://www.cac.gov.cn//www.cac.gov.cn/2026-08/17/c_1788713460388024.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-08-18",
-    "fetchedAt": "2026-08-18T00:40:41.816Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
-    ]
-  },
-  {
-    "id": "news_20260818_e1261957",
-    "title": "《全国网信系统深入学习贯彻中共中央政治局第二十三次集体学习会议精神》专题",
-    "url": "https://www.cac.gov.cn/gzzt/ztzl/zt/wlstzl/A0920011220index_1.htm",
-    "source": "网信中国",
-    "sourceType": "html-list",
-    "category": "AI 与数据合规",
-    "date": "2026-08-18",
-    "fetchedAt": "2026-08-18T00:40:42.092Z",
-    "summary": "网信中国发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "网信中国"
-    ]
-  },
-  {
-    "id": "news_20260818_8646fe2a",
-    "title": "纪念江泽民同志诞辰100周年大会在京隆重举行 习近平发表重要讲话",
-    "url": "https://www.miit.gov.cn/xwfb/szyw/art/2026/art_b5399124a2a2444f836b047d78090cd3.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-08-18",
-    "fetchedAt": "2026-08-18T00:40:44.293Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
-    ]
-  },
-  {
-    "id": "news_20260818_5366cc55",
-    "title": "纪念江泽民同志诞辰100周年大会在京隆重举行 习近平发表重要讲话",
-    "url": "http://www.miit.gov.cn/xwfb/szyw/art/2026/art_b5399124a2a2444f836b047d78090cd3.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-08-18",
-    "fetchedAt": "2026-08-18T00:40:44.569Z",
     "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
     "legalPoint": "",
     "tags": [
