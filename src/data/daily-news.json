@@ -1,5 +1,95 @@
 [
   {
+    "id": "news_20260829_70166f3e",
+    "title": "国家主席习近平任免驻外大使",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/509961.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-08-29",
+    "fetchedAt": "2026-08-29T04:50:49.636Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260829_24729873",
+    "title": "习近平就尼泊尔遭受泥石流灾害向尼泊尔总统鲍德尔致慰问电",
+    "url": "https://www.court.gov.cn/zixun/xiangqing/509921.html",
+    "source": "最高人民法院",
+    "sourceType": "html-list",
+    "category": "司法动态",
+    "date": "2026-08-29",
+    "fetchedAt": "2026-08-29T04:50:50.557Z",
+    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "最高人民法院"
+    ]
+  },
+  {
+    "id": "news_20260829_ba9a1881",
+    "title": "我国数据产业规模持续稳健增长",
+    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202608/content_7079479.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-29",
+    "fetchedAt": "2026-08-29T04:50:52.463Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260829_6dbf8b09",
+    "title": "习近平在吉尔吉斯斯坦媒体发表署名文章",
+    "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7079412.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-29",
+    "fetchedAt": "2026-08-29T04:50:52.726Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260829_64580664",
+    "title": "习近平就尼泊尔遭受泥石流灾害向尼泊尔总统鲍德尔致慰问电",
+    "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7079415.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-29",
+    "fetchedAt": "2026-08-29T04:50:52.995Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
+    "id": "news_20260829_7dff9c84",
+    "title": "2026中非数字能力建设合作大会在杭州举行",
+    "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_43e18b2b380147a5885da118be631853.html",
+    "source": "工信部",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-08-29",
+    "fetchedAt": "2026-08-29T04:50:56.041Z",
+    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "工信部"
+    ]
+  },
+  {
     "id": "news_20260828_7df5ea12",
     "title": "张军看望慰问驻最高法复员退伍武警战士",
     "url": "https://www.court.gov.cn/zixun/xiangqing/509891.html",
@@ -732,51 +822,6 @@
     "legalPoint": "",
     "tags": [
       "网信中国"
-    ]
-  },
-  {
-    "id": "news_20260821_9ceebb92",
-    "title": "普惠扩围 全链赋能——《住房公积金管理条例》修改解读",
-    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202608/content_7078674.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-08-21",
-    "fetchedAt": "2026-08-21T00:43:42.584Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260821_0318ac34",
-    "title": "习近平致电祝贺希奇莱马当选连任赞比亚总统",
-    "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078708.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-08-21",
-    "fetchedAt": "2026-08-21T00:43:43.730Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260821_c58c5f47",
-    "title": "中共中央 国务院 中央军委关于给张陆颁发“二级航天功勋奖章” 授予武飞、张洪章“英雄航天员”荣誉称号并颁发“三级航天功勋奖章”的决定",
-    "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7078703.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-08-21",
-    "fetchedAt": "2026-08-21T00:43:44.053Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
     ]
   }
 ]
