@@ -1,5 +1,35 @@
 [
   {
+    "id": "news_20260906_4cc80559",
+    "title": "《知识产权保护和运用“十五五”规划》",
+    "url": "https://www.cnipa.gov.cn/col/col3692/index.html",
+    "source": "国家知识产权局",
+    "sourceType": "html-list",
+    "category": "知识产权",
+    "date": "2026-09-06",
+    "fetchedAt": "2026-09-06T01:59:45.158Z",
+    "summary": "国家知识产权局发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "国家知识产权局"
+    ]
+  },
+  {
+    "id": "news_20260906_7583b624",
+    "title": "2026年前7个月我国服务进出口总额同比增长8.3%",
+    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202609/content_7080122.htm",
+    "source": "中国政府网",
+    "sourceType": "html-list",
+    "category": "政策法规",
+    "date": "2026-09-06",
+    "fetchedAt": "2026-09-06T01:59:46.107Z",
+    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
+    "legalPoint": "",
+    "tags": [
+      "中国政府网"
+    ]
+  },
+  {
     "id": "news_20260905_cda0a3d1",
     "title": "习近平致信祝贺中央广播电视总台《小喇叭》节目开播70周年",
     "url": "https://www.court.gov.cn/zixun/xiangqing/510941.html",
@@ -1257,96 +1287,6 @@
     "legalPoint": "",
     "tags": [
       "网信中国"
-    ]
-  },
-  {
-    "id": "news_20260829_70166f3e",
-    "title": "国家主席习近平任免驻外大使",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/509961.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-08-29",
-    "fetchedAt": "2026-08-29T04:50:49.636Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20260829_24729873",
-    "title": "习近平就尼泊尔遭受泥石流灾害向尼泊尔总统鲍德尔致慰问电",
-    "url": "https://www.court.gov.cn/zixun/xiangqing/509921.html",
-    "source": "最高人民法院",
-    "sourceType": "html-list",
-    "category": "司法动态",
-    "date": "2026-08-29",
-    "fetchedAt": "2026-08-29T04:50:50.557Z",
-    "summary": "最高人民法院发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "最高人民法院"
-    ]
-  },
-  {
-    "id": "news_20260829_ba9a1881",
-    "title": "我国数据产业规模持续稳健增长",
-    "url": "https://www.gov.cn/zhengce/jiedu/tujie/202608/content_7079479.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-08-29",
-    "fetchedAt": "2026-08-29T04:50:52.463Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260829_6dbf8b09",
-    "title": "习近平在吉尔吉斯斯坦媒体发表署名文章",
-    "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7079412.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-08-29",
-    "fetchedAt": "2026-08-29T04:50:52.726Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260829_64580664",
-    "title": "习近平就尼泊尔遭受泥石流灾害向尼泊尔总统鲍德尔致慰问电",
-    "url": "https://www.gov.cn/yaowen/liebiao/202608/content_7079415.htm",
-    "source": "中国政府网",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-08-29",
-    "fetchedAt": "2026-08-29T04:50:52.995Z",
-    "summary": "中国政府网发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "中国政府网"
-    ]
-  },
-  {
-    "id": "news_20260829_7dff9c84",
-    "title": "2026中非数字能力建设合作大会在杭州举行",
-    "url": "http://www.miit.gov.cn/xwfb/bldhd/art/2026/art_43e18b2b380147a5885da118be631853.html",
-    "source": "工信部",
-    "sourceType": "html-list",
-    "category": "政策法规",
-    "date": "2026-08-29",
-    "fetchedAt": "2026-08-29T04:50:56.041Z",
-    "summary": "工信部发布相关资讯，建议访问原文了解具体内容。",
-    "legalPoint": "",
-    "tags": [
-      "工信部"
     ]
   }
 ]
